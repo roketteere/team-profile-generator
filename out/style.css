@@ -1,0 +1,11 @@
+.team-heading{
+    background-color: rgb(228, 69, 69);
+}
+.card-header{
+    background-color: rgb(76, 131, 233);
+}
+
+h3, h2,h1, i{
+    color:white;
+
+}
